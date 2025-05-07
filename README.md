@@ -52,3 +52,7 @@ Summary of What Was Done:
 	•	Updated the project repository on GitHub with all changes and added a detailed README.md file.
 
 This project involved a combination of React, Node.js, AWS services (S3, EC2, ALB, Auto Scaling), and MongoDB Atlas to deliver a scalable and secure blog application.
+
+
+
+S3 Link: [pm2-list.png](https://yahya-blogapp-frontend2.s3.amazonaws.com/pm2-list.png)
