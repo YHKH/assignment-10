@@ -57,4 +57,7 @@ This project involved a combination of React, Node.js, AWS services (S3, EC2, AL
 
 S3 Link: http://yahya-blogapp-frontend2.s3-website.eu-north-1.amazonaws.com/
 
+API : http://16.16.215.42:5000/
+
+
 
