@@ -55,4 +55,6 @@ This project involved a combination of React, Node.js, AWS services (S3, EC2, AL
 
 
 
-S3 Link: [pm2-list.png](https://yahya-blogapp-frontend2.s3.amazonaws.com/pm2-list.png)
+S3 Link: http://yahya-blogapp-frontend2.s3-website.eu-north-1.amazonaws.com/
+
+
